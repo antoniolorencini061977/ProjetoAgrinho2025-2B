@@ -71,7 +71,7 @@ body {
     z-index: 99;
     font-size: 0.90rem;
     background-color: #4CAF50;
-    color: blue;
+    color: white;
     border: none;
     outline: none;
     cursor: pointer;
@@ -94,7 +94,7 @@ body {
   z-index: 99;
   font-size: 0.90rem;
   background-color: #388E3C;
-  color: blue;
+  color: white;
   border: none;
   outline: none;
   cursor: pointer;
